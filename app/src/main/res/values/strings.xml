@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="message_context_cannot_null">Message cannot be null</string>
+    <string name="no_internet_connction">No internet connection.</string>
+    <string name="retry">RETRY</string>
+    <string name="please_wait">Please wait …</string>
+    <string name="feature_in_stage_two">This functionality in 2nd stage</string>
+    <string name="title_home">Pop Movies</string>
+    <string name="title_movie_detail">MovieDetail</string>
+    <string name="api_key_alert">Please check! Have You configured Your Api key is Correctly</string>
+</resources>
